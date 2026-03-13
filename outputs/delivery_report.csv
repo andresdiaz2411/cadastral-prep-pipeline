@@ -1,0 +1,4 @@
+layer,features,crs,geom_type,topo_errors,critical,moderate
+construcciones,73,EPSG:3116,Polygon,4,2,2
+manzanas,26,EPSG:3116,Polygon,4,1,3
+parcelas,146,EPSG:3116,Polygon,149,147,2
