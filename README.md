@@ -3,7 +3,7 @@
 > **Python pipeline that automates the full cadastral data preparation workflow — from raw field shapefiles to a delivery-ready GeoPackage — replacing manual ArcGIS/QGIS processing steps.**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-1.0+-green)](https://geopandas.org)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-1.0.0-green)](https://geopandas.org)
 [![Standard](https://img.shields.io/badge/Standard-LADM--COL%20%7C%20CTM12-orange)](https://www.igac.gov.co)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
